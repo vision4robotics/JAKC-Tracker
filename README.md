@@ -6,9 +6,7 @@ run `JAKC_Demo.m`
 
 # Results
 
-<img src = './result/error.png'>
+<img src = './result/error.png' width="60%">
 
-<img src = './result/overlap.png'>
-
-<img src = './result/overlap.png'>
+<img src = './result/overlap.png' width="60%">
 
