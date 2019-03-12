@@ -1,4 +1,4 @@
-function results = run_JACT(seq)
+function results = run_JAKC(seq)
 
     
 params.hog_cell_size = 4;
