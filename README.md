@@ -26,9 +26,3 @@ vl_compilenn('enableGpu', false);
 
 Partly borrowed from [KCC](https://github.com/wang-chen/KCC/tree/master/tracking).
 
-## Results
-
-<img src = './result/error.png' width="60%">
-
-<img src = './result/overlap.png' width="60%">
-
